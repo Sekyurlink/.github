@@ -1,4 +1,4 @@
-# Sekyurlink 🌐
+# Sekyur-link 🌐
 
 **Reliable internet and network solutions in the Philippines.**  
 We build network tools, automation scripts, and open-source resources for IT professionals and developers.
